@@ -1,0 +1,42 @@
+
+/* MOBILE */
+
+@media (max-width: 590px) {
+    
+}
+
+/* TABLET */
+
+@media (max-width: 769px) {
+    
+}
+
+/* LAPTOP */
+
+@media (max-width: 1024px) {
+    .hamburger-menu {
+        display: block;
+    }
+
+    .navbar-menu {
+        display: none;
+    }
+}
+
+/* DESKTOP */
+
+@media (max-width: 1201px) {
+    
+}
+
+/* L-DESKTOP */
+
+@media (max-width: 1440px) {
+    
+}
+
+/* XL-DESKTOP */
+
+@media (min-width: 1441px) {
+    
+}
